@@ -1,0 +1,24 @@
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb

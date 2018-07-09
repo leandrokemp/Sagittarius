@@ -1,0 +1,93 @@
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+F:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+F:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+F:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+F:\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+F:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+F:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+F:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+F:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+F:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Users\nill\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.dll
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.dll
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.pdb
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\dbLog.xml
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.pdb
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\bin\Debug\Log.xml
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Nova pasta\TCC\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb

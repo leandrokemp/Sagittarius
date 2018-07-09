@@ -1,0 +1,162 @@
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+F:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+F:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+F:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+F:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+F:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+F:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+F:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+F:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+F:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+F:\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+F:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+F:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+F:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+F:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+F:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Users\nill\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+E:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+E:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+E:\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+E:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+E:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+E:\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+E:\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+E:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+E:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+E:\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbLog.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\Log.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Nova pasta\TCC\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb

@@ -1,0 +1,132 @@
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Documents and Settings\07294416\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Documents and Settings\07324007\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Documents and Settings\07324007\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Documents and Settings\07333743\Desktop\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+F:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+F:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+F:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+F:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+F:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+F:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+F:\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+F:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+F:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+F:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+F:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+F:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Users\nill\Desktop\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+E:\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+E:\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.dll
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.pdb
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbCadastros.xml
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.dll
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.dll
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.dll
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.pdb
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\daAcessos.xml
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.pdb
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\dbLog.xml
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.pdb
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\bin\Debug\Log.xml
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\ResolveAssemblyReference.cache
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.Resources.resources
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.dll
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.xml
+C:\Nova pasta\TCC\PortalReciclagem\dbCadastros\obj\Debug\dbCadastros.pdb

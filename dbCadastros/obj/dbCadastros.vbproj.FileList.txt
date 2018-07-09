@@ -1,0 +1,12 @@
+bin\Debug\dbCadastros.dll
+bin\Debug\dbCadastros.pdb
+bin\Debug\dbCadastros.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\dbCadastros.Resources.resources
+obj\Debug\dbCadastros.vbproj.GenerateResource.Cache
+obj\Debug\dbCadastros.dll
+obj\Debug\dbCadastros.xml
+obj\Debug\dbCadastros.pdb
+bin\Debug\daAcessos.dll
+bin\Debug\daAcessos.pdb
+bin\Debug\daAcessos.xml

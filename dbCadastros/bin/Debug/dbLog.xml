@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dbLog
+</name>
+</assembly>
+<members>
+<member name="M:dbLog.dbLog.Open">
+	<summary>
+ Metodo que abre a conexão com o banco de dados
+ </summary>
+</member><member name="M:dbLog.dbLog.UpdateBatch(System.Data.DataSet,System.String,System.String)">
+	<summary> Método utilizado para realizar atualização em Lote no banco de dados. </summary>
+	<param name="dsData"> Dataset contendo os dados a serem atualizados. </param>
+	<param name="strQueryToUpdate"> Consulta SQL que identifica (seleciona) a tabela a ser atualizada. </param>
+	<returns> True caso a atualização seja realizada com sucesso. False caso não seja. </returns>
+	<versao ID="1.0" Data="14/09/2009" Desenvolvedor="Felipe Caron"> Criação do Método</versao>
+</member><member name="M:dbLog.dbLog.Close">
+	<summary>
+ Metodo que fecha a conexão com o banco de dados
+ </summary>
+</member><member name="M:dbLog.dbLog.Execute(System.String)">
+	<summary>
+ Metodo utilizado para executar comando de inclusão, alterãção e exclusão
+ </summary>
+	<param name="strSQL"></param>
+	<returns></returns>
+	<remarks>Implementado por Nill Pinheiro</remarks>
+</member><member name="M:dbLog.dbLog.Retrieve(System.String)">
+	<summary>
+ Metodo utilizado para consulta no banco de dados
+ </summary>
+	<param name="strSQL"></param>
+	<returns>Retorna o proprio metodo contendo o resultado da consulta</returns>
+	<remarks>Implementado por Nill Pinheiro</remarks>
+</member><member name="T:dbLog.dbLog">
+	<summary>
+ Classe para tratar a camada de dados da tabela Log.
+ </summary>
+</member>
+</members>
+</doc>

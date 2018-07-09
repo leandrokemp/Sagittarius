@@ -1,0 +1,18 @@
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+E:\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\bin\Debug\daAcessos.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.Resources.resources
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\daAcessos\obj\Debug\daAcessos.pdb

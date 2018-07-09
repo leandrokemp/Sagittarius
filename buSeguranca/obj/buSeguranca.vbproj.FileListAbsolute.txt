@@ -1,0 +1,15 @@
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\buSeguranca.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\daAcessos.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.pdb
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\bin\Debug\dbSeguranca.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.Resources.resources
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.vbproj.GenerateResource.Cache
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.dll
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.xml
+C:\Documents and Settings\nill.pinheiro.INTRANET\Desktop\PortalReciclagem\buSeguranca\obj\Debug\buSeguranca.pdb
