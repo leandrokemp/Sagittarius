@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+buCadastros
+</name>
+</assembly>
+<members>
+<member name="M:buCadastros.buRegistrarPeso.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela RegistrarPeso.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ Implementado em: 25/10/2010 por Renato Matsumoto
+ </remarks>
+</member><member name="M:buCadastros.buBeneficio.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Beneficio.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em: 25/11/2005  por: Karen Cristina Geraldo. 
+ Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Beneficio.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:buCadastros.buResiduos.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Residuos.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks>
+	</remarks>
+</member><member name="M:buCadastros.buRanking.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Ranking.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ Implementado em: 25/10/2010 por Renato Matsumoto
+ </remarks>
+</member>
+</members>
+</doc>

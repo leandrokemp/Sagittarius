@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dbSeguranca
+</name>
+</assembly>
+<members>
+<member name="P:dbSeguranca.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:dbSeguranca.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:dbSeguranca.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:dbSeguranca.dbGruposxFuncionalidades.Incluir(System.Int32,System.String)">
+	<summary>
+ Função que inclui um novo cadastro de GrupoxFuncionalidade no banco da tabela GrupoxFuncionalidadesxFuncionalidades.
+ </summary>
+	<returns>
+ True se incluiu com sucesso, False se não conseguiu incluir.</returns>
+	<remarks> 
+ Alterado o tratamento da inclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela GrupoxFuncionalidadesxFuncionalidades.
+ Alterado a passagem da string de conexão com a base de dados
+  </remarks>
+</member><member name="M:dbSeguranca.dbGruposxFuncionalidades.Alterar(System.String,System.Int32)">
+	<summary>
+ Função que altera um registro da tabela GrupoxFuncionalidadesxFuncionalidades.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks>
+  Implementado em: 14/06/2005  por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+ Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela GrupoxFuncionalidadesxFuncionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbGruposxFuncionalidades.Excluir(System.String)">
+	<summary>
+ Função que exclui um registro da tabela GrupoxFuncionalidadesxFuncionalidades.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks>
+ Implementado em: 14/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela GrupoxFuncionalidadesxFuncionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbGruposxFuncionalidades.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela GrupoxFuncionalidadesxFuncionalidades.
+ </summary>
+	<returns>
+ Dataset contendo os dados selecionados.
+ </returns>
+	<remarks>
+ Implementado em 13/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela GrupoxFuncionalidadesxFuncionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbGrupos.Incluir(System.String)">
+	<summary>
+ Função que inclui um novo cadastro de grupo no banco da tabela Grupos.
+ </summary>
+	<returns>
+ True se incluiu com sucesso, False se não conseguiu incluir.</returns>
+	<remarks> 
+ Alterado o tratamento da inclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Grupos.
+ Alterado a passagem da string de conexão com a base de dados
+  </remarks>
+</member><member name="M:dbSeguranca.dbGrupos.Alterar(System.String,System.Int32)">
+	<summary>
+ Função que altera um registro da tabela Grupos.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks>
+  Implementado em: 14/06/2005  por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+ Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Grupos.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbGrupos.Excluir(System.Int32)">
+	<summary>
+ Função que exclui um registro da tabela Grupos.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks>
+ Implementado em: 14/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Grupos.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbGrupos.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Grupos.
+ </summary>
+	<returns>
+ Dataset contendo os dados selecionados.
+ </returns>
+	<remarks>
+ Implementado em 13/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Grupos.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbTipoFuncionalidade.Incluir(System.String,System.String)">
+	<summary>
+ Função que inclui um novo cadastro de grupo no banco da tabela TipoFuncionalidade.
+ </summary>
+	<returns>
+ True se incluiu com sucesso, False se não conseguiu incluir.</returns>
+	<remarks> 
+ Implementado em:14/03/2005 por: Rodrigo S. Teixeira.
+ Alterado em:23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento da inclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela TipoFuncionalidade.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+  </remarks>
+</member><member name="M:dbSeguranca.dbTipoFuncionalidade.Alterar(System.String,System.Int32,System.String)">
+	<summary>
+ Função que altera um registro da tabela TipoFuncionalidade.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks>
+  Implementado em: 14/06/2005  por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+ Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela TipoFuncionalidade.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="T:dbSeguranca.dbTipoFuncionalidade">
+	<summary>
+ Classe para tratar a camada de dados da tabela TipoFuncionalidade.
+ </summary>
+</member><member name="T:dbSeguranca.dbUsuariosResiduos">
+	<summary>
+ Classe para tratar a camada de dados da tabela UsuariosResiduos.
+ </summary>
+</member><member name="T:dbSeguranca.dbMemberShipHelper">
+	<summary>
+ Classe para tratar a camada de dados da tabela MemberShipHelper.
+ </summary>
+</member><member name="T:dbSeguranca.dbUsuarios">
+	<summary>
+ Classe para tratar a camada de dados da tabela Usuarios.
+ </summary>
+</member><member name="M:dbSeguranca.dbFuncionalidades.Incluir(System.String,System.String,System.Int32)">
+	<summary>
+ Função que inclui um novo cadastro de grupo no banco da tabela Funcionalidades.
+ </summary>
+	<returns>
+ True se incluiu com sucesso, False se não conseguiu incluir.</returns>
+	<remarks> 
+ Alterado o tratamento da inclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Funcionalidades.
+ Alterado a passagem da string de conexão com a base de dados
+  </remarks>
+</member><member name="M:dbSeguranca.dbFuncionalidades.Alterar(System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Função que altera um registro da tabela Funcionalidades.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks>
+  Implementado em: 14/06/2005  por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+ Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Funcionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbFuncionalidades.Excluir(System.Int32)">
+	<summary>
+ Função que exclui um registro da tabela Funcionalidades.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks>
+ Implementado em: 14/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em: 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Funcionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:dbSeguranca.dbFuncionalidades.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Funcionalidades.
+ </summary>
+	<returns>
+ Dataset contendo os dados selecionados.
+ </returns>
+	<remarks>
+ Implementado em 13/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em 23/11/2005 por: Karen Cristina Geraldo.
+ Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Funcionalidades.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="T:dbSeguranca.dbFuncionalidades">
+	<summary>
+ Classe para tratar a camada de dados da tabela Funcionalidades.
+ </summary>
+</member>
+</members>
+</doc>

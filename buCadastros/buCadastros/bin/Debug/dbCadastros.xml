@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dbCadastros
+</name>
+</assembly>
+<members>
+<member name="T:dbCadastros.dbElearning">
+	<summary>
+ Classe para tratar a camada de dados da tabela Elearning.
+ </summary>
+</member><member name="T:dbCadastros.dbRegulamentoBeneficio">
+	<summary>
+ Classe para tratar a camada de dados da tabela RegulamentoBeneficio.
+ </summary>
+</member><member name="P:dbCadastros.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:dbCadastros.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:dbCadastros.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:dbCadastros.dbLanceLeilao">
+	<summary>
+ Classe para tratar a camada de dados da tabela LanceLeilao.
+ </summary>
+</member><member name="M:dbCadastros.dbBeneficio.Validatipo_residuo(System.String,System.String)">
+	<summary> Método que faz a autenticação do usuário</summary>
+	<param name="strtipo_residuo"> tipo_residuo digitado pelo usuário</param>
+	<param name="strSenha">Senha digitada pelo usuário</param>
+	<returns> DataSet com dados</returns>
+	<versao ID="1.0" RF="RS014" Data="01/09/2009" Desenvolvedor="Felipe Caron"> Criação do Método</versao>
+</member><member name="T:dbCadastros.dbBeneficio">
+	<summary>
+ Classe para tratar a camada de dados da tabela Beneficio.
+ </summary>
+	<remarks> 
+ Implementado em:13/06/2005 por: Rodrigo S. Teixeira.
+ Alterado em:25/11/2005 por: Karen Cristina Geraldo.
+ Alterado em: 28/08/2006 por: João Geraldo Vieira
+ </remarks>
+</member><member name="T:dbCadastros.dbRequisicao">
+	<summary>
+ Classe para tratar a camada de dados da tabela Requisicao.
+ </summary>
+</member><member name="T:dbCadastros.dbRegistrarPeso">
+	<summary>
+ Classe para tratar a camada de dados da tabela Ranking.
+ </summary>
+	<remarks>
+	</remarks>
+</member><member name="T:dbCadastros.dbResiduos">
+	<summary>
+ Classe para tratar a camada de dados da tabela Residuos.
+ </summary>
+</member><member name="T:dbCadastros.dbRanking">
+	<summary>
+ Classe para tratar a camada de dados da tabela Ranking.
+ </summary>
+	<remarks>
+	</remarks>
+</member><member name="T:dbCadastros.dbNoticias">
+	<summary>
+ Classe para tratar a camada de dados da tabela Noticias.
+ </summary>
+</member>
+</members>
+</doc>
