@@ -1,0 +1,328 @@
+﻿@import url("../jquery-ui-1.7.3.custom.css");
+
+/***************************************************/
+/*                    BOTOES                       */
+/***************************************************/
+.BotaoMedio, .BotaoGrande, .BotaoGrandeCustom, .BotaoGridProximo, .BotaoGridAnterior, .BotaoGridIR, .Botao
+{
+    color: #ffffff;
+}
+
+.Botao
+{
+    background: url(img/btnNormal.gif) no-repeat;
+}
+
+
+.BotaoMedio
+{
+    background: url(img/btMedio.gif) no-repeat;
+}
+
+.BotaoGrande
+{
+    background: url(img/btGrande.gif) no-repeat;
+}
+.MaskedEditError
+{
+	background-color: #ffcccc;
+}
+.BotaoGrandeCustom
+{
+    background: url(img/btGrandeCustom.gif) no-repeat;
+}
+
+.BotaoGridProximo
+{
+    background: url(img/btnProx.gif) no-repeat;
+}
+
+.BotaoGridAnterior
+{
+    background: url(img/btnAnt.gif) no-repeat;
+}
+
+.BotaoGridIR
+{
+    background: url(img/btnIr.gif) no-repeat;
+}
+
+.BotaoGridAcima
+{
+    background: url(img/btnCima.gif) no-repeat;
+}
+
+.BotaoGridAbaixo
+{
+    background: url(img/btnBaixo.gif) no-repeat;
+}
+
+/***************************************************/
+/*                    BOTOES                       */
+/***************************************************/
+
+
+
+
+
+
+/***************************************************/
+/*                   GRIDVIEW                      */
+/***************************************************/
+.GridView TD
+{
+    border: 1px solid #bdbdbd;
+    color: #5a5a5a;
+}
+
+.GridView .RowStyle TD
+{
+    background: #f7f7f7;
+    color: #5a5a5a;
+}
+
+.GridView TR:hover.RowStyle TD, .GridView TR:hover.AlternatingRowStyle TD
+{
+    background: #ececec;
+}
+
+.GridView .AlternatingRowStyle TD
+{
+    background-color: #ffffff;
+    color: #5a5a5a;
+}
+
+.GridView TH
+{
+    border: 1px solid #bdbdbd;
+}
+
+.GridView .HeaderStyle
+{
+    background: #ececec;
+    color: #5a5a5a;
+    font-weight: bold;
+}
+
+.GridView .HeaderStyle A
+{
+    color: #5a5a5a;
+}
+
+.GridView .Label
+{
+    color: #5a5a5a;
+}
+
+.GridView A
+{
+    color: #5a5a5a;
+}
+
+
+.GridView .SelectedRowStyle TD
+{
+    background: #ececec;
+    color: #5a5a5a;
+}
+
+.GridView TR:hover.SelectedRowStyle TD
+{
+    background: #ececec;
+    color: #5a5a5a;
+}
+
+.GridView TR:hover.SelectedRowStyle TD A
+{
+    color: #5a5a5a;
+}
+
+.GridView TR:hover.SelectedRowStyle .Label
+{
+    color: #5a5a5a;
+}
+
+.GridView .SelectedRowStyle TD A
+{
+    color: #5a5a5a;
+}
+
+.GridView .SelectedRowStyle .Label
+{
+    color: #5a5a5a;
+}
+
+.GridView .PagerStyle
+{
+    background: #ececec;
+}
+
+.GridView .PagerStyle SPAN
+{
+    color: #777777;
+}
+
+.GridView .PagerStyle A
+{
+    color: #777777;
+    background: url(img/bgPagerGrid.png);
+}
+
+.GridView .Blank
+{
+    color: #5a5a5a;
+}
+/***************************************************/
+/*                   GRIDVIEW                      */
+/***************************************************/
+
+
+
+/***************************************************/
+/*                GRIDVIEW  NO BORDER              */
+/***************************************************/
+.GridViewNoBorder TD
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder .RowStyle TD
+{
+    background: #f7f7f7;
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder TR:hover.RowStyle TD, .GridViewNoBorder TR:hover.AlternatingRowStyle TD
+{
+    background: #ececec;
+}
+
+.GridViewNoBorder .AlternatingRowStyle TD
+{
+    background-color: #ffffff;
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder TH
+{
+}
+
+.GridViewNoBorder .HeaderStyle
+{
+    background: #ececec;
+    color: #5a5a5a;
+    font-weight: bold;
+}
+
+.GridViewNoBorder .HeaderStyle A
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder .Label
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder A
+{
+    color: #5a5a5a;
+}
+
+
+.GridViewNoBorder .SelectedRowStyle TD
+{
+    background: #ececec;
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder TR:hover.SelectedRowStyle TD
+{
+    background: #ececec;
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder TR:hover.SelectedRowStyle TD A
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder TR:hover.SelectedRowStyle .Label
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder .SelectedRowStyle TD A
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder .SelectedRowStyle .Label
+{
+    color: #5a5a5a;
+}
+
+.GridViewNoBorder .PagerStyle
+{
+    background: #ececec;
+}
+
+.GridViewNoBorder .PagerStyle SPAN
+{
+    color: #777777;
+}
+
+.GridViewNoBorder .PagerStyle A
+{
+    color: #777777;
+    background: url(img/bgPagerGrid.png);
+}
+
+.GridViewNoBorder .Blank
+{
+    color: #5a5a5a;
+}
+/***************************************************/
+/*                   GRIDVIEW                      */
+/***************************************************/
+
+
+
+/***************************************************/
+/*                    LOADING                      */
+/***************************************************/
+.loading
+{
+    background-color: #000;
+    color: #fff;
+}
+/***************************************************/
+/*                    LOADING                      */
+/***************************************************/
+
+
+
+
+
+
+/***************************************************/
+/*                    TEXTBOX                      */
+/***************************************************/
+.TextBox, .TextBoxLogin, .TextBoxData, .TextBoxCPF, .TextBoxCNPJ, .TextBoxSenha, .TextBoxCEP, .TextBoxTipoLogradouro, .TextBoxNumero, .TextBoxTelefone, .TextMultLine
+{
+    color: #000000;
+    border: 1px solid #b7b7b7;
+}
+/***************************************************/
+/*                    TEXTBOX                      */
+/***************************************************/
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	margin: 0;
+	padding: 0;
+	color: DarkGray;
+
+
+
+

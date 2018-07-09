@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+buSeguranca
+</name>
+</assembly>
+<members>
+<member name="M:buSeguranca.buFuncionalidades.Alterar(System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Função que altera um registro na tabela Funcionalidades.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 14/06/2005  por: Rodrigo S. Teixeira. 
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+           tabela de Cadastros, mas sim da tabela Funcionalidades.
+ 3.Alterado em: 28/08/2006 por: João Geraldo Vieira
+    3.1 - Alterado a passagem da string de conexão com a base de dados
+ 4. Alterado em: 10/01/2007 por Douglas Rossetim.
+    4.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buFuncionalidades.Excluir(System.Int32)">
+	<summary>
+ Função que exclui um registro da tabela Funcionalidades, com base na identificação do grupo.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Funcionalidades.
+ 3. Alterado em 10/05/2006 por Flavio F Nigra
+    3.1 - Corrigido problema na exclusao (nao era possivel excluir grupo).
+ 4. Alterado em 28/08/2006 por: João Geraldo Vieira
+    4.1 - Alterado a passagem da string de conexão com a base de dados
+ 5. Alterado em: 10/01/2007 por Douglas Rossetim.
+    5.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buFuncionalidades.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Funcionalidades.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ 1.Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+    2.1 - Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+          tabela de Cadastros, mas sim da tabela Funcionalidades.
+ 3. Alterado em: 28/08/2006 por: João Geraldo Vieira
+     3.1 - Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="T:buSeguranca.buFuncionalidades">
+	<summary>
+ Classe que trata a camada de negócio da tabela Funcionalidades.
+ </summary>
+	<remarks> 
+ 1. Implementado em: 14/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005 por: Karen Cristina Geraldo. 
+ 3. Alterado em: 28/08/2006 por: João Geraldo Vieira.
+ 4. Alterado em: 10/01/2007 por: Douglas Rossetim.
+     4.1 - Incluido função que registra um LOG para cada operação realizada, exceto consultas.
+ 5. Alterado em 29/12/2008 por Rafael Beck.
+     - Removida a gravação de LOG pois agora todo log sera gerado dentro de Acessos
+     - Incluido as funções New() e Finalize() para instanciar a classe db Correspondente
+     - Removidos as inicializações de classes que estiverem dentro das funções exceto New e Finalize
+ </remarks>
+</member><member name="M:buSeguranca.buGrupos.Alterar(System.String,System.Int32)">
+	<summary>
+ Função que altera um registro na tabela Grupos.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 14/06/2005  por: Rodrigo S. Teixeira. 
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+           tabela de Cadastros, mas sim da tabela Grupos.
+ 3.Alterado em: 28/08/2006 por: João Geraldo Vieira
+    3.1 - Alterado a passagem da string de conexão com a base de dados
+ 4. Alterado em: 10/01/2007 por Douglas Rossetim.
+    4.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buGrupos.Excluir(System.Int32)">
+	<summary>
+ Função que exclui um registro da tabela Grupos, com base na identificação do grupo.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela Grupos.
+ 3. Alterado em 10/05/2006 por Flavio F Nigra
+    3.1 - Corrigido problema na exclusao (nao era possivel excluir grupo).
+ 4. Alterado em 28/08/2006 por: João Geraldo Vieira
+    4.1 - Alterado a passagem da string de conexão com a base de dados
+ 5. Alterado em: 10/01/2007 por Douglas Rossetim.
+    5.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buGrupos.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela Grupos.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ 1.Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+    2.1 - Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+          tabela de Cadastros, mas sim da tabela Grupos.
+ 3. Alterado em: 28/08/2006 por: João Geraldo Vieira
+     3.1 - Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="M:buSeguranca.buGruposxFuncionalidades.Alterar(System.String,System.Int32)">
+	<summary>
+ Função que altera um registro na tabela GruposxFuncionalidades.
+ </summary>
+	<returns>
+ True se alterou com sucesso, False se não conseguiu alterar.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 14/06/2005  por: Rodrigo S. Teixeira. 
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de alteracão, pois o campo não faz mais parte da 
+           tabela de Cadastros, mas sim da tabela GruposxFuncionalidades.
+ 3.Alterado em: 28/08/2006 por: João Geraldo Vieira
+    3.1 - Alterado a passagem da string de conexão com a base de dados
+ 4. Alterado em: 10/01/2007 por Douglas Rossetim.
+    4.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buGruposxFuncionalidades.Excluir(System.String)">
+	<summary>
+ Função que exclui um registro da tabela GruposxFuncionalidades, com base na identificação do grupo.
+ </summary>
+	<returns>
+ True se excluiu com sucesso, False se não conseguiu excluir.
+ </returns>
+	<remarks> 
+ 1. Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+     2.1 - Alterado o tratamento de exclusão, pois o campo não faz mais parte da 
+ tabela de Cadastros, mas sim da tabela GruposxFuncionalidades.
+ 3. Alterado em 10/05/2006 por Flavio F Nigra
+    3.1 - Corrigido problema na exclusao (nao era possivel excluir grupo).
+ 4. Alterado em 28/08/2006 por: João Geraldo Vieira
+    4.1 - Alterado a passagem da string de conexão com a base de dados
+ 5. Alterado em: 10/01/2007 por Douglas Rossetim.
+    5.1 - Incluido a string strUserLogin no recebimento dos parametros.
+ </remarks>
+</member><member name="M:buSeguranca.buGruposxFuncionalidades.Consultar(System.String,System.String)">
+	<summary>
+ Função que efetua uma consulta na tabela GruposxFuncionalidades.
+ </summary>
+	<returns>
+ Retorna um Dataset com os dados selecionados.
+ </returns>
+	<remarks> 
+ 1.Implementado em: 13/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005  por: Karen Cristina Geraldo.
+    2.1 - Alterado o tratamento de consulta, pois o campo não faz mais parte da 
+          tabela de Cadastros, mas sim da tabela GruposxFuncionalidades.
+ 3. Alterado em: 28/08/2006 por: João Geraldo Vieira
+     3.1 - Alterado a passagem da string de conexão com a base de dados
+ </remarks>
+</member><member name="T:buSeguranca.buTipoFuncionalidade">
+	<summary>
+ Classe que trata a camada de negócio da tabela TipoFuncionalidade.
+ </summary>
+	<remarks> 
+ 1. Implementado em: 14/06/2005 por: Rodrigo S. Teixeira.
+ 2. Alterado em: 23/11/2005 por: Karen Cristina Geraldo. 
+ 3. Alterado em: 28/08/2006 por: João Geraldo Vieira.
+ 4. Alterado em: 10/01/2007 por: Douglas Rossetim.
+     4.1 - Incluido função que registra um LOG para cada operação realizada, exceto consultas.
+ 5. Alterado em 29/12/2008 por Rafael Beck.
+     - Removida a gravação de LOG pois agora todo log sera gerado dentro de Acessos
+     - Incluido as funções New() e Finalize() para instanciar a classe db Correspondente
+     - Removidos as inicializações de classes que estiverem dentro das funções exceto New e Finalize
+ </remarks>
+</member><member name="P:buSeguranca.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:buSeguranca.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:buSeguranca.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,83 @@
+<asp:ValidationSummary runat="server" CssClass="Validation"></asp:ValidationSummary>
+
+<asp:DropDownList runat="server" CssClass="DropDown"></asp:DropDownList>
+
+<asp:Button runat="server" CssClass="Botao" />
+<asp:Button runat="server" SkinID="Medio" CssClass="BotaoMedio" />
+<asp:Button runat="server" SkinID="Grande" CssClass="BotaoGrande" />
+<asp:Button runat="server" SkinID="GrandeCustom" CssClass="BotaoGrandeCustom" />
+<asp:Button runat="server" SkinID="BotaoGridProximo" CssClass="BotaoGridProximo" />
+<asp:Button runat="server" SkinID="BotaoGridIR" CssClass="BotaoGridIR" />
+<asp:Button runat="server" SkinID="BotaoGridAnterior" CssClass="BotaoGridAnterior" />
+<asp:Button runat="server" SkinID="BotaoGridAbaixo" CssClass="BotaoGridAbaixo" />
+<asp:Button runat="server" SkinID="BotaoGridAcima" CssClass="BotaoGridAcima" />
+
+<asp:Label runat="server" CssClass="Label"></asp:Label>
+<asp:Label runat="server" CssClass="Login" SkinID="Login"></asp:Label>
+<asp:Label runat="server" CssClass="TitleLogin" SkinID="TitleLogin"></asp:Label>
+<asp:Label runat="server" CssClass="Titulo" SkinID="Titulo"></asp:Label>
+
+<asp:SiteMapPath runat="server" CssClass="BreadCrumble" CurrentNodeStyle-CssClass="currentNodeBreadCrumble" NodeStyle-CssClass="nodeBreadCrumble" />
+
+<asp:LinkButton runat="server" CssClass="LinkButton" SkinID="LinkButton" />
+<asp:LinkButton runat="server" CssClass="LinkButtonLetter" SkinID="LinkButtonLetter" />
+<asp:LinkButton runat="server" CssClass="LinkButtonAba" SkinID="LinkButtonAba" />
+		
+<asp:RadioButton runat="server" CssClass="RadioButton" />		
+			
+<asp:TextBox CssClass="TextBox" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxLogin" SkinID="Login" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxData" SkinID="Data" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextMultLine" SkinID="TextMultLine" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxCPF" SkinID="CPF" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxCNPJ" SkinID="CNPJ" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxTelefone" SkinID="Telefone" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxNumero" SkinID="Numero" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxTipoLogradouro" SkinID="TipoLogradouro" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxCEP" SkinID="CEP" runat="server" ></asp:TextBox>
+<asp:TextBox CssClass="TextBoxSenha" SkinID="Senha" runat="server" ></asp:TextBox>
+
+<asp:GridView runat="server" CellPadding="0" CellSpacing="0" Width="100%" CssClass="GridView" GridLines="Vertical" PagerSettings-Mode="NumericFirstLast">
+    <PagerStyle CssClass="PagerStyle" />
+    <RowStyle CssClass="RowStyle"/>
+    <SelectedRowStyle CssClass="SelectedRowStyle" />
+    <HeaderStyle CssClass="HeaderStyle" />
+    <EditRowStyle CssClass="EditRowStyle" />
+    <AlternatingRowStyle CssClass="AlternatingRowStyle" />
+    <EmptyDataTemplate>
+        <table width="100%">
+            <tr>
+                <td class="Blank">
+                    Não foram encontrados resultados contendo todos os termos de sua consulta.
+                </td>
+            </tr>
+        </table>
+    </EmptyDataTemplate>
+</asp:GridView>
+
+<asp:GridView skinID="GridNotEmpty" runat="server" CellPadding="0" CellSpacing="0" Width="100%" CssClass="GridView" GridLines="Vertical">
+    <PagerStyle CssClass="PagerStyle" />
+    <RowStyle CssClass="RowStyle"/>
+    <SelectedRowStyle CssClass="SelectedRowStyle" />
+    <HeaderStyle CssClass="HeaderStyle" />
+    <EditRowStyle CssClass="EditRowStyle" />
+    <AlternatingRowStyle />
+</asp:GridView>
+
+<asp:GridView skinID="GridClear" runat="server" CellPadding="0" CellSpacing="0" CssClass="GridView" GridLines="None">
+    <PagerStyle CssClass="PagerStyle" />
+    <RowStyle CssClass="RowStyle"/>
+    <SelectedRowStyle CssClass="SelectedRowStyle" />
+    <HeaderStyle CssClass="HeaderStyle" />
+    <EditRowStyle CssClass="EditRowStyle" />
+    <AlternatingRowStyle />
+</asp:GridView>
+
+<asp:GridView skinID="GridNoBorder" runat="server" CellPadding="0" CellSpacing="0" CssClass="GridViewNoBorder" Width="100%" GridLines="None">
+    <PagerStyle CssClass="PagerStyle" />
+    <RowStyle CssClass="RowStyle"/>
+    <SelectedRowStyle CssClass="SelectedRowStyle" />
+    <HeaderStyle CssClass="HeaderStyle" />
+    <EditRowStyle CssClass="EditRowStyle" />
+    <AlternatingRowStyle />
+</asp:GridView>

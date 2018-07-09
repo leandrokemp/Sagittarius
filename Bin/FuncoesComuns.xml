@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FuncoesComuns
+</name>
+</assembly>
+<members>
+<member name="M:FuncoesComuns.FuncoesComuns.Video.VideoHelper.ValidateLinkYoutube(System.String)">
+	<summary>
+ Verifica se o link do vídeo do youtube é válido
+ </summary>
+	<param name="strLink">Recebe o link do video</param>
+	<returns>Retorna um boolean</returns>
+</member><member name="M:FuncoesComuns.FuncoesComuns.Video.VideoHelper.GetCodVideo(System.String)">
+	<summary>
+ Pega o código do vídeo
+ </summary>
+	<param name="strLinkYoutube">Recebe o link do video do youtube</param>
+	<returns>Retorna uma string com o código do vídeo</returns>
+</member><member name="M:FuncoesComuns.FuncoesComuns.Video.VideoHelper.GetLinkXML(System.String)">
+	<summary>
+ Pega o link do XML do vídeo
+ </summary>
+	<param name="strLinkYoutube"></param>
+	<returns></returns>
+</member><member name="M:FuncoesComuns.FuncoesComuns.Adapter.AdapterHelper.GetTextMultiline(System.String)">
+	<summary>
+ Trata o texto retirado de um campo multiline.
+ </summary>
+	<param name="strTexto">texto que será tratado</param>
+	<returns>o texto tratado</returns>
+</member><member name="M:FuncoesComuns.FuncoesComuns.Adapter.AdapterHelper.SetTextMultiline(System.String)">
+	<summary>
+ Coloca o texto no campo multiline
+ </summary>
+	<param name="strTexto"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
