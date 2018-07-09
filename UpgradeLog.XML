@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PortalReciclagem">
+</Property><Property Name="Solution File" Value="E:\PortalReciclagem\PortalReciclagem.sln">
+</Property><Property Name="User Options File" Value="E:\PortalReciclagem\PortalReciclagem.suo">
+</Property><Property Name="Date" Value="segunda-feira, 26 de abril de 2010">
+</Property><Property Name="Time" Value="18:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PortalReciclagem.sln" Description="File successfully backed up as E:\PortalReciclagem\Backup\PortalReciclagem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PortalReciclagem.suo" Description="File successfully backed up as E:\PortalReciclagem\Backup\PortalReciclagem.suo">
+</Event><Event ErrorLevel="1" Project="PortalReciclagem" Source="..\PortalReciclagem" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\dbCadastros.vbproj" Description="Project file successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\dbCadastros.vbproj">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\dbCliente.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\dbCliente.vb">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Application.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Application.myapp" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Settings.settings" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\My Project\Resources.resx" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbCadastros\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\dbCadastros.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dbCadastros" Source="dbCadastros\dbCadastros.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\daAcessos.vbproj" Description="Project file successfully backed up as E:\PortalReciclagem\Backup\daAcessos\daAcessos.vbproj">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\daAcessos.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\daAcessos.vb">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Application.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Application.myapp" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Settings.settings" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\My Project\Resources.resx" Description="File successfully backed up as E:\PortalReciclagem\Backup\daAcessos\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\daAcessos.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="daAcessos" Source="daAcessos\daAcessos.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buSeguranca.vbproj" Description="Project file successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\buSeguranca.vbproj">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buGrupos.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\buGrupos.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buModulos.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\buModulos.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buPermissoes.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\buPermissoes.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buUsuarios.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\buUsuarios.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Application.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Application.myapp" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Settings.settings" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\My Project\Resources.resx" Description="File successfully backed up as E:\PortalReciclagem\Backup\buSeguranca\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buSeguranca.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="buSeguranca" Source="buSeguranca\buSeguranca.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbSeguranca.vbproj" Description="Project file successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\dbSeguranca.vbproj">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbGrupos.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\dbGrupos.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbModulos.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\dbModulos.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbPermissoes.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\dbPermissoes.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbUsuarios.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\dbUsuarios.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Application.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Application.myapp" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Settings.settings" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\My Project\Resources.resx" Description="File successfully backed up as E:\PortalReciclagem\Backup\dbSeguranca\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbSeguranca.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dbSeguranca" Source="dbSeguranca\dbSeguranca.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PortalReciclagem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PortalReciclagem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dbCadastros" Source="dbCadastros\dbCadastros.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="daAcessos" Source="daAcessos\daAcessos.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="buSeguranca" Source="buSeguranca\buSeguranca.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="dbSeguranca" Source="dbSeguranca\dbSeguranca.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
