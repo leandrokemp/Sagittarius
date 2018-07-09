@@ -1,0 +1,111 @@
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+C:\Users\nill\Desktop\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.dll
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.dll
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.dll
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.pdb
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.xml
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.pdb
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.xml
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.pdb
+F:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.dll
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.dll
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.dll
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.pdb
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.pdb
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.pdb
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+E:\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.pdb
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+C:\Users\Leandro\Desktop\TCC\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.pdb
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+C:\Users\Renato\Desktop\Projeto B\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\FuncoesComuns.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\daAcessos.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbLog.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\buSeguranca.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\dbSeguranca.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.pdb
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\bin\Debug\Log.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\ResolveAssemblyReference.cache
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.Resources.resources
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.vbproj.GenerateResource.Cache
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.dll
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.xml
+C:\Nova pasta\TCC\PortalReciclagem\FuncoesComuns\FuncoesComuns\obj\Debug\FuncoesComuns.pdb
